@@ -108,32 +108,7 @@ npm start
 
 The application will be available at `http://localhost:3000`
 
-## Project Structure
 
-```
-cred-app/
-├── backend/
-│   ├── config/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   ├── utils/
-│   ├── .env
-│   ├── package.json
-│   └── server.js
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── redux/
-│   │   ├── styles/
-│   │   ├── App.js
-│   │   └── index.js
-│   ├── .env
-│   └── package.json
-└── README.md
-```
 
 ![image](https://github.com/user-attachments/assets/1dd1c0e1-1f54-40a3-80e3-4b29d8c2b1f2)
 ![image](https://github.com/user-attachments/assets/2104babe-66b0-4620-b38e-65d094034644)
