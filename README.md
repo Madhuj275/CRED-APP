@@ -3,7 +3,7 @@
 A modern web application inspired by CRED, built with React.js and Node.js. This application helps users manage their credit cards, track credit scores, and earn rewards.
 
 ## DEMO
-
+[View Demo](https://drive.google.com/file/d/171tHW4hjkDoQIR0_atO1ttF0co_p27va/view?usp=drive_link)
 
 ## Features
 
